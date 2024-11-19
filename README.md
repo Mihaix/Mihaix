@@ -1,5 +1,5 @@
 # 💼 About Me:
-<br>Hi, I’m Mihai. I believe in discipline, consistency, and pushing past limits. Every day is an opportunity to grow, improve, and face challenges head-on. I approach life and work with a relentless mindset, driven by continuous learning and the pursuit of excellence.<br><br>- 🛠️ **Specializing in software engineering fundamentals, problem-solving, and system design**  <br>- 🎯 **Mission**: To become a world-class software engineer capable of solving real-world problems at scale  <br>- 💡 **Philosophy**: *"Don’t stop when you’re tired. Stop when you’re done."*<br><br>No excuses. Just work.
+<br>Hi, I’m Mihai. I believe in discipline, consistency, and pushing past limits. Every day is an opportunity to grow, improve, and face challenges head-on. I approach life and work with a relentless mindset, driven by continuous learning and the pursuit of excellence.<br><br>• 🛠️ **Specializing in software engineering fundamentals, problem-solving, and system design**  <br>• 🎯 **Mission**: To become a world-class software engineer capable of solving real-world problems at scale  <br>• 💡 **Philosophy**: *"Don’t stop when you’re tired. Stop when you’re done."*<br><br>No excuses. Just work.
 
 
 # 💻 Tech Stack:
@@ -9,7 +9,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mihaix&theme=chartreuse-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihaix&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
