@@ -1,5 +1,5 @@
 # 💼 About Me:
-<br>Hi, I’m Mihai. I believe in discipline, consistency, and pushing past limits. Every day is an opportunity to grow, improve, and face challenges head-on. I approach life and work with a relentless mindset, driven by continuous learning and the pursuit of excellence.<br><br>• 🛠️ **Specializing in software engineering fundamentals, problem-solving, and system design**  <br>• 🎯 **Mission**: To become a world-class software engineer capable of solving real-world problems at scale  <br>• 💡 **Philosophy**: *"Don’t stop when you’re tired. Stop when you’re done."*<br><br>No excuses. Just work.
+Hi, I’m Mihai. I believe in discipline, consistency, and pushing past limits. Every day is an opportunity to grow, improve, and face challenges head-on. I approach life and work with a relentless mindset, driven by continuous learning and the pursuit of excellence.<br><br>• 🛠️ **Specializing in software engineering fundamentals, problem-solving, and system design**  <br>• 🎯 **Mission**: To become a world-class software engineer capable of solving real-world problems at scale  <br>• 💡 **Philosophy**: *"Don’t stop when you’re tired. Stop when you’re done."*<br><br>No excuses. Just work.
 
 
 # 💻 Tech Stack:
@@ -9,6 +9,6 @@
 
 # 💬 Quote of the Day
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
 ---
 [![](https://visitcount.itsvg.in/api?id=Mihaix&icon=0&color=3)](https://visitcount.itsvg.in)
